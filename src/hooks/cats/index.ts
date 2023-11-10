@@ -1,0 +1,1 @@
+export { useCatById } from "./useCatById";
